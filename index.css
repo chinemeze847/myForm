@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: aqua;
+    border: 5px solid blue;
+}
